@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cinema>
+	<director name="Крістофер Нолан ">
+		<year name="до 2010">
+			<movie name="Темний лицар">
+				<actor name="Крістіан Бейл" screentime="35" />
+				<actor name="Гіт Леджер" screentime="25" />
+				<actor name="Ґері Олдмен" screentime="15" />
+			</movie>
+		</year>
+		<year name="2010-2019">
+			<movie name="Інтерстеллар">
+				<actor name="Метью Макконахі" screentime="60" />
+				<actor name="Джессіка Честейн" screentime="10" />
+				<actor name="Тімоті Шаламе" screentime="1" />
+				<actor name="Енн Гетевей" screentime="20" />
+			</movie>
+			<movie name="Початок">
+				<actor name="Леонардо Ді Капріо" screentime="60" />
+				<actor name="Джозеф Гордон-Левітт" screentime="15" />
+				<actor name="Кілліан Мерфі" screentime="20" />
+				<actor name="Том Гарді" screentime="10" />
+			</movie>
+		</year>
+		<year name="після 2019">
+			<movie name="Оппенгеймер">
+				<actor name="Кілліан Мерфі" screentime="85" />
+				<actor name="Флоренс П'ю" screentime="0" />
+				<actor name="Роберт Дауні-молодший" screentime="80" />
+				<actor name="Емілі Блант" screentime="0" />
+				<actor name="Метт Деймон" screentime="80" />
+			</movie>
+		</year>
+	</director>
+	<director name="Дені Вільньов  ">
+		<year name="2010-2019">
+			<movie name="Той, хто біжить по лезу 2049 (2017) ">
+				<actor name="Раян Ґослінґ" screentime="60" />
+				<actor name="Гаррісон Форд" screentime="20" />
+				<actor name="Ана де Армас" screentime="15" />
+			</movie>
+			<movie name="Сікаріо (2015)">
+				<actor name="Бенісіо дель Торо" screentime="78" />
+				<actor name="Емілі Блант" screentime="60" />
+			</movie>
+		</year>
+		<year name="після 2019">
+			<movie name="Дюна (2021) ">
+				<actor name="Тімоті Шаламе" screentime="78" />
+				<actor name="Ребекка Фергюсон" screentime="25" />
+				<actor name="Зендея" screentime="15" />
+			</movie>
+			<movie name="Дюна 2 (2023) ">
+				<actor name="Тімоті Шаламе" screentime="53" />
+				<actor name="Ребекка Фергюсон" screentime="12" />
+				<actor name="Зендея" screentime="110" />
+				<actor name="Флоренс П'ю" screentime="20" />
+			</movie>
+		</year>
+	</director>
+	<director name="Вес Андерсон ">
+		<year name="до 2010">
+			<movie name="Незрівняний містер Фокс (2009)">
+				<actor name="Скарлетт Йоганссон" screentime="20" />
+				<actor name="Вільям Дефо" screentime="10" />
+				<actor name="Меріл Стріп" screentime="23" />
+			</movie>
+		</year>
+		<year name="2010-2019">
+			<movie name="Готель Гранд будапешт (2014) ">
+				<actor name="Ральф Файнс" screentime="23" />
+				<actor name="Сірша Ронан" screentime="8" />
+				<actor name="Едріан Броуді" screentime="6" />
+				<actor name="Тільда Свінтон" screentime="6" />
+				<actor name="Вільям Дефо" screentime="6" />
+			</movie>
+		</year>
+		<year name="після 2019">
+			<movie name="Французький вісник (2021)  ">
+				<actor name="Тімоті Шаламе" screentime="13" />
+				<actor name="Тільда Свінтон" screentime="23" />
+				<actor name="Едріан Броуді" screentime="14" />
+				<actor name="Сірша Ронан" screentime="23" />
+			</movie>
+			<movie name="Астероїд сіті (2023)  ">
+				<actor name="Марґо Роббі" screentime="4" />
+				<actor name="Едріан Броуді" screentime="6" />
+				<actor name="Скарлетт Йоганссон" screentime="24" />
+				<actor name="Тільда Свінтон" screentime="8" />
+			</movie>
+			<movie name="Чудова історія Генрі Шугара (2023)   ">
+				<actor name="Бенедикт Камбербетч" screentime="30" />
+				<actor name="Ральф Файнс" screentime="16" />
+			</movie>
+		</year>
+	</director>
+	<director name="Гільєрмо Дель Торо ">
+		<year name="до 2010">
+			<movie name="Хеллбой(2004) ">
+				<actor name="Рон Перлман" screentime="70" />
+				<actor name="Сельма Блер" screentime="15" />
+				<actor name="Даг Джонс" screentime="35" />
+			</movie>
+		</year>
+		<year name="2010-2019">
+			<movie name="Багряний пік (2015) ">
+				<actor name="Міа Васіковська" screentime="42" />
+				<actor name="Том Гіддлстон" screentime="24" />
+				<actor name="Джессіка Честейн" screentime="22" />
+				<actor name="Чарлі Ханнем" screentime="22" />
+			</movie>
+			<movie name="Форма води (2017) ">
+				<actor name="Саллі Хокінс" screentime="55" />
+				<actor name="Даг Джонс" screentime="55" />
+				<actor name="Октавія Спенсер" screentime="32" />
+			</movie>
+			<movie name="Лабіринт Фавна (2017) ">
+				<actor name="Івана Бакеро" screentime="42" />
+				<actor name="Даг Джонс" screentime="54" />
+			</movie>
+		</year>
+	</director>
+	<director name="Грета Гервіг ">
+		<year name="2010-2019">
+			<movie name="Леді Бьорд (2017)  ">
+				<actor name="Сірша Ронан" screentime="48" />
+				<actor name="Тімоті Шаламе" screentime="20" />
+			</movie>
+			<movie name="Маленькі жінки (2019)  ">
+				<actor name="Сірша Ронан" screentime="35" />
+				<actor name="Тімоті Шаламе" screentime="34" />
+				<actor name="Флоренс П'ю" screentime="36" />
+				<actor name="Емма Уотсон" screentime="27" />
+			</movie>
+		</year>
+		<year name="після 2019">
+			<movie name="Барбі (2023)">
+				<actor name="Марґо Роббі" screentime="48" />
+				<actor name="Раян Ґослінґ" screentime="32" />
+				<actor name="Симу Лю" screentime="17" />
+			</movie>
+		</year>
+	</director>
+</cinema>
+
